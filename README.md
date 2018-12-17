@@ -1,6 +1,8 @@
 # rpatorjit-ljs
 Applying ljs to raptorjit
 
+For more info see https://gihub.com/mingodad/ljs
+
 <p align="center"><img src="doc/raptorjit.png" alt="RaptorJIT"></p>
 
 [![Build Status](https://travis-ci.org/raptorjit/raptorjit.svg?branch=master)](https://travis-ci.org/raptorjit/raptorjit)
