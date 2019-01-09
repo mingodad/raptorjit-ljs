@@ -1,4 +1,4 @@
-# rpatorjit-ljs
+# raptorjit-ljs
 Applying ljs to raptorjit
 
 For more info see https://gihub.com/mingodad/ljs
