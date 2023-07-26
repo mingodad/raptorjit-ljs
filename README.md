@@ -1,7 +1,7 @@
 # raptorjit-ljs
 Applying ljs to raptorjit
 
-For more info see https://gihub.com/mingodad/ljs
+For more info see https://github.com/mingodad/ljs
 
 <p align="center"><img src="doc/raptorjit.png" alt="RaptorJIT"></p>
 
